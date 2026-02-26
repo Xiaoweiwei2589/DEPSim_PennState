@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "DEPSim (Distributed Electric Propulsion Simulation)"
+message: "If you use DEPSim-related workflows described here, please cite the relevant publications."
+type: software
+authors:
+  - family-names: "Theron"
+    given-names: "Jean-Pierre"
+  - family-names: "Horn"
+    given-names: "Joseph F."
+preferred-citation:
+  type: conference-paper
+  title: "An Integrated Simulation Tool for e-VTOL Aeromechanics and Flight Control Analysis"
+  authors:
+    - family-names: "Theron"
+      given-names: "Jean-Pierre"
+    - family-names: "Horn"
+      given-names: "Joseph F."
+  year: 2020
+  notes: "See also related DEPSim publications on NDI control and coupled acoustics."
